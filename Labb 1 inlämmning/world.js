@@ -1,7 +1,4 @@
 
-function startGame(){
-
-}
 alert('welcome to the new world')
 var gender = prompt('pick between Male of Female')
 
