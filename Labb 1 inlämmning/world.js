@@ -55,10 +55,18 @@ var choice = prompt('would you like to loot the chest Yes or No')
 if(choice == 'Yes') {
     alert('you found a map of the forest and city')
 }
+<<<<<<< HEAD
   else if ('No') {
+=======
+  else if (choice == 'No') {
+>>>>>>> 29c52b84d929f06c4de1b1633caa2f0858dd4373
       alert('you leave the room and go to the shop to buy a map of the area you are in.')
 
   }  
   else{
       alert('undecesive about what to do you decide to go out of the town. The healer nera suddenly appears and gives you a map of the city and the forest so you can find your way back if you ever need to heal up again.')
+<<<<<<< HEAD
   }
+=======
+  }
+>>>>>>> 29c52b84d929f06c4de1b1633caa2f0858dd4373
