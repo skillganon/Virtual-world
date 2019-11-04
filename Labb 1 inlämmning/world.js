@@ -55,7 +55,7 @@ var choice = prompt('would you like to loot the chest Yes or No')
 if(choice == 'Yes') {
     alert('you found a map of the forest and city')
 }
-  else if ('No') {
+  else if (choice == 'No') {
       alert('you leave the room and go to the shop to buy a map of the area you are in.')
 
   }  
